@@ -72,10 +72,115 @@ nav a{
 
     align-items:center;
 
-    gap:40px;
+    gap:60px;
 
 }
 
+.hero-text{
+
+    flex:1;
+
+}
+
+.hero-image{
+
+    flex:1;
+
+    text-align:right;
+
+}
+
+.hero-image img{
+
+    width:100%;
+
+    max-width:550px;
+
+}
+
+.badge{
+
+    display:inline-block;
+
+    background:#e8f5e9;
+
+    color:#2e7d32;
+
+    padding:8px 18px;
+
+    border-radius:30px;
+
+    font-weight:bold;
+
+    margin-bottom:20px;
+
+}
+
+.hero h1{
+
+    font-size:52px;
+
+    line-height:1.2;
+
+    margin-bottom:20px;
+
+}
+
+.hero p{
+
+    font-size:20px;
+
+    color:#555;
+
+    line-height:1.7;
+
+    margin-bottom:35px;
+
+}
+
+.btn-primary{
+
+    display:inline-block;
+
+    background:#16a34a;
+
+    color:white;
+
+    text-decoration:none;
+
+    padding:18px 40px;
+
+    border-radius:8px;
+
+    font-size:20px;
+
+    font-weight:bold;
+
+    transition:0.3s;
+
+}
+
+.btn-primary:hover{
+
+    background:#15803d;
+
+}
+
+.social-proof{
+
+    margin-top:30px;
+
+    font-size:18px;
+
+    color:#666;
+
+}
+
+.social-proof span{
+
+    margin-left:10px;
+
+}
 .texto{
 
     width:50%;
