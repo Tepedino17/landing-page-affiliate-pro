@@ -575,3 +575,52 @@ p{
     color:#555;
 
 }
+/* ===========================
+   RODAPÉ
+=========================== */
+
+footer{
+
+    background:#111827;
+
+    color:white;
+
+    text-align:center;
+
+    padding:60px 20px;
+
+}
+
+footer h2{
+
+    margin-bottom:15px;
+
+}
+
+footer p{
+
+    color:#d1d5db;
+
+}
+
+.footer-links{
+
+    margin:25px 0;
+
+}
+
+.footer-links a{
+
+    color:white;
+
+    text-decoration:none;
+
+    margin:0 15px;
+
+}
+
+.copyright{
+
+    font-size:14px;
+
+}
