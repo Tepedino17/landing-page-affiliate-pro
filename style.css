@@ -467,3 +467,111 @@ p{
     margin:15px 0;
 
 }
+/* ===========================
+   OFERTA
+=========================== */
+
+.offer{
+
+    padding:100px 0;
+
+    background:#111827;
+
+    color:white;
+
+}
+
+.offer-box{
+
+    max-width:800px;
+
+    margin:auto;
+
+    text-align:center;
+
+    background:#1f2937;
+
+    padding:60px;
+
+    border-radius:20px;
+
+}
+
+.offer-box h2{
+
+    font-size:42px;
+
+    margin-bottom:20px;
+
+}
+
+.offer-box p{
+
+    color:#d1d5db;
+
+    margin-bottom:30px;
+
+}
+
+.offer-box ul{
+
+    list-style:none;
+
+    margin-bottom:35px;
+
+}
+
+.offer-box li{
+
+    margin:12px 0;
+
+    font-size:18px;
+
+}
+/* ===========================
+   FAQ
+=========================== */
+
+.faq{
+
+    padding:90px 0;
+
+    background:#ffffff;
+
+}
+
+.faq-list{
+
+    max-width:850px;
+
+    margin:auto;
+
+}
+
+.faq-item{
+
+    background:#f8fafc;
+
+    padding:25px 30px;
+
+    border-radius:12px;
+
+    margin-bottom:20px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.06);
+
+}
+
+.faq-item h3{
+
+    margin-bottom:10px;
+
+    color:#111827;
+
+}
+
+.faq-item p{
+
+    color:#555;
+
+}
