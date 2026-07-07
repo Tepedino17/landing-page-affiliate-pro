@@ -181,29 +181,6 @@ nav a{
     margin-left:10px;
 
 }
-.texto{
-
-    width:50%;
-
-}
-
-.imagem{
-
-    width:50%;
-
-    text-align:right;
-
-}
-
-.imagem img{
-
-    width:100%;
-
-    max-width:500px;
-
-    border-radius:15px;
-
-}
 
 h2{
 
@@ -223,35 +200,6 @@ p{
 
 }
 
-.botao{
-
-    display:inline-block;
-
-    margin-top:35px;
-
-    background:#16a34a;
-
-    color:white;
-
-    padding:18px 40px;
-
-    text-decoration:none;
-
-    border-radius:8px;
-
-    font-size:20px;
-
-    transition:.3s;
-
-}
-
-.botao:hover{
-
-    background:#15803d;
-
-    transform:translateY(-3px);
-
-}
 /* ===========================
    BENEFÍCIOS
 =========================== */
