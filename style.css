@@ -296,7 +296,7 @@ p{
 
 .section-title p{
 
-    color:#666;
+    color:#6B7280;
 
 }
 
@@ -638,5 +638,26 @@ footer p{
 .copyright{
 
     font-size:14px;
+
+}
+/* ===========================
+   HERO BENEFITS
+=========================== */
+
+.hero-benefits{
+
+    margin:35px 0;
+
+}
+
+.hero-benefits p{
+
+    font-size:18px;
+
+    color:#111827;
+
+    margin-bottom:14px;
+
+    font-weight:500;
 
 }
