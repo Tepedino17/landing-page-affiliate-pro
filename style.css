@@ -50,6 +50,8 @@ header .container{
 
     align-items:center;
 
+    min-height:70px;
+
 }
 
 .logo{
@@ -64,13 +66,21 @@ header .container{
 
 }
 
+nav{
+
+    display:flex;
+
+    align-items:center;
+
+}
+
 nav a{
 
     color:white;
 
     text-decoration:none;
 
-    margin-left:25px;
+    margin-left:32px;
 
     font-weight:500;
 
@@ -80,7 +90,7 @@ nav a{
 
 nav a:hover{
 
-    color:#60A5FA;
+    color:#38BDF8;
 
 }
 
@@ -659,5 +669,47 @@ footer p{
     margin-bottom:14px;
 
     font-weight:500;
+
+}
+
+/* ===========================
+   BOTÃO HEADER
+=========================== */
+
+.btn-header{
+
+    display:inline-block;
+
+    margin-left:30px;
+
+    padding:12px 24px;
+
+    background:#16A34A;
+
+    color:#ffffff;
+
+    text-decoration:none;
+
+    border-radius:10px;
+
+    font-size:15px;
+
+    font-weight:600;
+
+    transition:all .3s ease;
+
+    box-shadow:0 8px 20px rgba(22,163,74,.25);
+
+    letter-spacing:.3px;
+
+}
+
+.btn-header:hover{
+
+    background:#15803D;
+
+    transform:translateY(-3px);
+
+    box-shadow:0 15px 30px rgba(22,163,74,.35);
 
 }
