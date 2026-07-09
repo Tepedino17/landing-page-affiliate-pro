@@ -713,3 +713,85 @@ footer p{
     box-shadow:0 15px 30px rgba(22,163,74,.35);
 
 }
+
+/* ===========================
+   RESPONSIVIDADE
+=========================== */
+
+@media (max-width: 768px){
+
+    .hero .container{
+
+        flex-direction:column;
+
+        text-align:center;
+
+        gap:40px;
+
+    }
+
+    .hero-text{
+
+        max-width:100%;
+
+    }
+
+    .hero-image{
+
+        text-align:center;
+
+    }
+
+    .hero-image img{
+
+        max-width:100%;
+
+    }
+
+    .benefits-grid{
+
+        flex-direction:column;
+
+    }
+
+    .steps-grid{
+
+        flex-direction:column;
+
+    }
+
+    .testimonials-grid{
+
+        flex-direction:column;
+
+    }
+    
+    .offer-box{
+
+        padding:40px 25px;
+
+    }
+    
+    .hero h1{
+
+        font-size:40px;
+
+    }
+
+    .section-title h2{
+
+        font-size:32px;
+
+    }
+    
+    nav{
+
+        flex-wrap:wrap;
+
+        justify-content:center;
+
+        gap:15px;
+
+    }
+
+}
